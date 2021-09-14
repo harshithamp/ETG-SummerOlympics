@@ -1,9 +1,9 @@
 # SummerOlympics
 
-This repository contains the code for few question. 
+#This repository contains the code for few question. 
 
-About the repository: This project contains the some data related to Summer Olympic dataset.
+#About the repository: This project contains the some data related to Summer Olympic dataset.
 
-Function used : unique() ,sort_values(), plot() , head().
+#Function used : unique() ,sort_values(), plot() , head().
 
-file: Summer.csv , SummerOly.ipynb.
+#File: Summer.csv , SummerOly.ipynb.
