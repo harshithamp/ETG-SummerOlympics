@@ -1,4 +1,4 @@
-# SummerOlympics
+# ETG-Summer Olympics
 
 # This repository contains the code for few question. 
 
